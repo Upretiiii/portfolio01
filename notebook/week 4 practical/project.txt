@@ -1,0 +1,20 @@
+"""
+1. Module:
+   A file containing Python code (functions, variables, classes) that can be imported and used in other programs.
+
+2. The Python Standard Library:
+   A collection of built-in modules and functions that come with Python, ready to use without additional installation.
+
+3. Formal Parameters:
+   Variables listed in a function definition that receive the values of arguments when the function is called.
+
+4. Actual Parameters (Argument values):
+   The values or expressions passed to a function when it is called.
+
+5. Default and Keyword Arguments:
+   - Default arguments: parameters that have a default value if no argument is provided.
+   - Keyword arguments: arguments passed by explicitly naming the parameter (order does not matter).
+
+6. Lambda Expression:
+   A small anonymous function defined using the lambda keyword. Can take any number of arguments but only a single expression.
+"""
